@@ -21,6 +21,8 @@
   <img src="https://komarev.com/ghpvc/?username=lmhoba9s&style=flat-square&color=blue" alt=""/>
 </div>
 
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Here's a little more about me:
 
