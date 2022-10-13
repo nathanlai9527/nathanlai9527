@@ -32,12 +32,13 @@ class DataScience:
     def __init__(self):
         self.name = "Nathan Lai"
         self.role = "Data Analytics"
-        self.language_spoken = ["Chinese_Mandarin & Cantonese", "English", "Japanese", "Spanish"]
+        self.language_spoken = ["Chinese_Mandarin & Cantonese", 
+                              "English", "Japanese", "Spanish"]
         self.code = ["Python", "R", "SQL", "SAS", "C++"]
 
     def say_hi(self):
-        print("Thanks for visiting my profile, hope some of my works can make you feel interesting.")
-
+        print("Thanks for visiting my profile, 
+              hope some of my works can make you feel interesting.")
 
 me = DataScience()
 me.say_hi()
