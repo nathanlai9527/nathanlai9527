@@ -51,6 +51,9 @@ me.say_hi()
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lmhoba9s)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lmhoba9s&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🗂️ My Projects
+
+- Forecasting-U.S.-Candy-Production-by-Using-Time-Series: https://github.com/lmhoba9s/Forecasting-U.S.-Candy-Production-by-Using-Time-Series
+- Exploring-Countries-sustainability-by-Using-ESG-Data: https://github.com/lmhoba9s/Exploring-Countries-sustainability-by-Using-ESG-Data
+- Machine-Learning-for-2017-Census-data: https://github.com/lmhoba9s/Machine-Learning-for-2017-Census-data
