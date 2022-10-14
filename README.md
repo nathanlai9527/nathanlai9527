@@ -9,7 +9,7 @@
   I'm Nathan Lai! 
 </h2>
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="270">
 <p><em>Statistics and Data Science - UC Santa Barbara
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
