@@ -31,7 +31,7 @@ class DataScience:
 
     def __init__(self):
         self.name = "Nathan Lai"
-        self.role = "Data Analytics"
+        self.role = "Data Analyst"
         self.language_spoken = ["Chinese_Mandarin & Cantonese", 
                               "English", "Japanese", "Spanish"]
         self.code = ["Python", "R", "SQL", "SAS", "C++"]
@@ -49,7 +49,7 @@ me.say_hi()
 
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lmhoba9s)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nathanlai9527)](https://git.io/streak-stats)
 
 
 ## 🗂️ My Projects
