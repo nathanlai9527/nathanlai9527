@@ -54,6 +54,7 @@ me.say_hi()
 
 ## 🗂️ My Projects
 
-- Forecasting-U.S.-Candy-Production-by-Using-Time-Series: https://github.com/lmhoba9s/Forecasting-U.S.-Candy-Production-by-Using-Time-Series
-- Exploring-Countries-sustainability-by-Using-ESG-Data: https://github.com/lmhoba9s/Exploring-Countries-sustainability-by-Using-ESG-Data
-- Machine-Learning-for-2017-Census-data: https://github.com/lmhoba9s/Machine-Learning-for-2017-Census-data
+- Air Quality Machine Learning Prediction for Major Cities in Massachusetts: https://github.com/nathanlai9527/air-quality-prediction
+- Forecasting U.S. Candy Production by Using Time Series: https://github.com/lmhoba9s/Forecasting-U.S.-Candy-Production-by-Using-Time-Series
+- Exploring Countries Sustainability by Using ESG Data: https://github.com/lmhoba9s/Exploring-Countries-sustainability-by-Using-ESG-Data
+- Machine Learning for 2017 Census data: https://github.com/lmhoba9s/Machine-Learning-for-2017-Census-data
